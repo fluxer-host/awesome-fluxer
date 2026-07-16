@@ -134,6 +134,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxcord](https://fluxcord.jbcrn.dev/) - Discord <-> Fluxer bridge
 - [Bifröst](https://github.com/KartoffelChipss/bifrost) - Discord-Fluxer-Bridge
 - [Bolt](https://williamhorn.ing/bolt) - Bridge supporting Discord, Spacebar, Stoat, Telegram, Matrix, and more
+- [Orax](https://oraxbot.com) - Cross-server and cross-platform chat bridge that syncs messages between Discord and Fluxer
 
 ## Hosting
 - [fluxer.host](https://fluxer.host) - Free US/EU Hosting for Fluxer bots, bridges, and community tools.
