@@ -147,4 +147,5 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ### Self Hosting Resources
 
 ## Development Resources
+- [Bot Development Guild](https://fluxer.gg/cAy3CNcu) - A Fluxer guild dedicated to continuing the Fluxer bot ecosystem.
 - [Fluxer dev cheatsheet](https://github.com/bizojs/fluxer-dev-cheatsheet) - A helpful guide for common fluxer development issues
