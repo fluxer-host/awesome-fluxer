@@ -113,6 +113,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [imflux.ing](https://imflux.ing) - Fluxer community vanity url creator. Give your community somewhere to land, with no requirements.
 - [Fluxer Webhook Studio](https://fluxer-webhook-studio.surge.sh) - A client-side visual manager and rich embed builder for Fluxer webhooks.
 - [fluxer-rpc-reader-linux](https://github.com/GiveMeTheButter/fluxer-rpc-reader-linux) - Shows (most) Discord RPC apps in your Fluxer status using only your token.
+- [fluxer.name](https://fluxer.name) - Claim a public profile page for your Fluxer identity: avatar, status, bio, badges, links, and socials in one link for your bio.
 
 ## Clients
 - [D-Mail](https://codeberg.org/actusreus/dmail) - A truly native Android client written in Java and View
