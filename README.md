@@ -118,6 +118,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ## Clients
 - [D-Mail](https://codeberg.org/actusreus/dmail) - A truly native Android client written in Java and View
 - [fluxer-tui](https://github.com/dogbonewish/fluxer-tui) - TUI client for Fluxer
+- [Fluxtop](https://github.com/Patrosi73/Fluxtop) - A modified Discord alternate client (Vesktop) that connects to Fluxer APIs
 
 ## Client Modifications
 
