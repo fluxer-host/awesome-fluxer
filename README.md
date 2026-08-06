@@ -102,6 +102,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxmon](https://web.fluxer.app/oauth2/authorize?client_id=1501616165086985154&scope=bot&permissions=137439308864) - Collectible Pokémon game with trading, team battles, and ranked duels
 - [Astrokat](https://github.com/mizarc/astrokat) - All-in-one chatbot for moderation, fun, utilities, and more. Built to run as both a scalable public bot and with self-hosting in mind.
 - [rollbot](https://codeberg.org/nesges/rollbot-fluxer) - A rpg dice roller bot for selfhosted Fluxer **and** fluxer.app. Open Source, CC-BY-NC-SA, Python, selfhostable.
+- [Pluuty](https://pluuty.com) - All-in-one Fluxer bot for moderation, leveling, welcome, music, giveaways, modmail, and more. Dashboard-first, works on fluxer.app and self-hosted Fluxer, with optional whitelabel.
 
 ## Tools
 
