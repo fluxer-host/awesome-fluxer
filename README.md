@@ -104,6 +104,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [rollbot](https://codeberg.org/nesges/rollbot-fluxer) - A rpg dice roller bot for selfhosted Fluxer **and** fluxer.app. Open Source, CC-BY-NC-SA, Python, selfhostable.
 - [Pluuty](https://pluuty.com) - All-in-one Fluxer bot for moderation, leveling, welcome, music, giveaways, modmail, and more. Dashboard-first, works on fluxer.app and self-hosted Fluxer, with optional whitelabel.
 - [Phony](https://codeberg.org/everyname/phony) - Phony is a Fluxer bot that creates "phony channels", voice channels which disappear when everyone leaves. [Add the Phony bot to your Fluxer.app community](https://web.fluxer.app/oauth2/authorize?client_id=1505390819898610586&scope=bot&permissions=4503599627373584).
+- [Make it a Quote for Fluxer](https://web.fluxer.app/oauth2/authorize?client_id=1528621093315678209&scope=bot&permissions=105472) - Make it a Quote for fluxer, from the same developers behind [Make it a Quote for Discord/Bluesky](https://miq.moe/).
 
 ## Tools
 
