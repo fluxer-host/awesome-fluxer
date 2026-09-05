@@ -21,6 +21,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
     - [Java](#java)
     - [Zig](#zig)
     - [Ruby](#ruby)
+    - [C++](#c++)
   - [Bots](#bots)
   - [Tools](#tools)
   - [Clients](#clients)
@@ -83,6 +84,10 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ### Ruby
 
 - [fluxerrb](https://codeberg.org/roxannewolf/fluxerrb) - Ruby gem for making Fluxer bots
+
+### C++
+
+- [Fluxer++](https://github.com/Jw4Lk3r16/FluxerPP) - Native C++ SDK for building high‑performance Fluxer bots.
 
 ## Bots
 
